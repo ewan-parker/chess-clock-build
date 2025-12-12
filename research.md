@@ -13,3 +13,14 @@ I think we can probably get the prototype done in 2 weeks easy.
 Likely going to need two 2.42" OLED displays... heres an image of one 2.4 for reference
 
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/55da7888-d6f5-4517-9bb6-204e7047391b" />
+
+**Wiring plan:**
+
+`Pico GP4 → SDA1 → OLED1 SDA`
+`Pico GP5 → SCL1 → OLED1 SCL`
+
+`Pico GP2 → SDA2 → OLED2 SDA`
+`Pico GP3 → SCL2 → OLED2 SCL`
+
+`Pico 3.3V → VCC of both`
+`Pico GND  → GND of both`
