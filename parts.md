@@ -4,3 +4,4 @@
 
 [400 pin breadboard for prototype](https://www.amazon.ca/Stemedu-Breadboards-Prototype-Solderless-Breadboard/dp/B0BZ4KF4JK/ref=sr_1_24?crid=3VFXB136N0VHU&dib=eyJ2IjoiMSJ9.-1bwk_YwLsf3uK39uVhN8WT8qHKGlIUwbkPoHFJc-W5h3HZt93KQINVdaTJh4e2WG0_cJv80eK3XAPOmFHd9fItrYa6ul8XmHUttdla-Wb_uaGa8Z0xAQ3SR3LzH7cC9qf5HX5zpVTRrw8z7c3b9EP27jBBndCsKgbZVpgezOjz8CzBPfl6oQ2uwgFSHppds4OvFsihlyneP4qcVoeXa8LGHHREG1t6KniL_aDiv4Kef2IqKysR6QB59fqM-6OBtnIKZJ3iRem0USSugS3HEcLOoEgYpoDAqBbrQPR_AXo0.723be8DJJtm9oqoi3vStiM6ZrKpOA83DQsSuvaAO0DI&dib_tag=se&keywords=breadboard+400+pin&qid=1765530136&sprefix=breadboard+400+pin%2Caps%2C157&sr=8-24)
 
+[2 oled displays](https://www.amazon.ca/Module-Display-128X64SPI-Communicate-Color1-3/dp/B0DGDHT7BW/ref=cm_cr_arp_d_product_top?ie=UTF8&th=1)
