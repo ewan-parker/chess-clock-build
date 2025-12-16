@@ -11,4 +11,4 @@ Got buttons & microswitches
 2 oled displays and a Raspberry Pi Pico are on the way.
 
 ## December 15.
-Pico arrived and [this MicroPython file](Code/test-pico.py) works and flashes the built in led.
+Pico arrived and [this MicroPython file](Code/test-pico.py) works and flashes the built in led, gonna need female-female jumper wires...
