@@ -8,10 +8,10 @@ oled = ssd1306.SSD1306_I2C(128, 64, i2c)
 
 button = Pin(10, Pin.IN, Pin.PULL_UP)
 
-m = 5
-s = 11
+m = 2 # 2 Minutes
+s = 5 # 5 Seconds
 
-while True:
+while m > 0 or s > 0:
     
     oled.fill(0)
     
@@ -31,6 +31,12 @@ while True:
         m = m-1
         s = 60
         
+    
     oled.show()
     
     time.sleep(1)
+    
+oled.fill(0)
+oled.text("Times up!",10,5)
+oled.show()
+time.sleep(5)
