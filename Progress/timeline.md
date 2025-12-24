@@ -21,3 +21,6 @@ All parts arrived and I made a simple 5 minute timer on Thonny.
 ## December 21. 
 Made a working clock! the file `1button1screen-clock.py` is a fully working chess clock but only uses 1 button and
 1 screen as the name suggests. Will need 2 splitter jumper wires to get both oleds connect to the Pico.
+
+## December 23.
+Yesterday and today proved successful! Near finished! the file `2button2oled.py` is a technically functional clock with 2 buttons that control the two respective oleds. Screens show large numbers instead of standard small text. Some polishing touches needed s.a game end detection & time+increment setting.
