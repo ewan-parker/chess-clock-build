@@ -1,6 +1,6 @@
 # chess-clock-build
 
-A chess clock me and my brother set out to build. 
+A chess clock built by my brother and I.
 
 
 <img src="https://github.com/user-attachments/assets/1930bac1-1cc1-4050-82e9-7a5563555777" width="300">
