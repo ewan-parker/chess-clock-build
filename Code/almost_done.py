@@ -196,9 +196,9 @@ while True:
         if mode_locked and mode_value == 1:
             held_time = time.ticks_diff(now, press_start_time)
             if held_time < 2000:
-                paused = not paused       # short press → pause/resume
+                paused = not paused       # short press
             else:
-                currently_playing = False # long press → go home
+                currently_playing = False # long press 
                 paused = False
                 apply_mode()
             mode_locked = False
